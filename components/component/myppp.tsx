@@ -47,7 +47,7 @@ export function MyPPP() {
                 alt="만화 일러스트"
                 className="w-full max-w-[400px] md:max-w-none"
                 height={600}
-                src="/placeholder.svg"
+                src="/mine.jpg"
                 style={{
                   aspectRatio: "600/600",
                   objectFit: "cover",
