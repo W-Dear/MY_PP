@@ -67,7 +67,7 @@ export function MyPPP() {
                   alt="Comic-1"
                   className="w-full h-auto rounded-lg object-cover"
                   height={400}
-                  src="/placeholder.svg"
+                  src="/comic-1.gif"
                   style={{
                     aspectRatio: "300/300",
                     objectFit: "cover",
@@ -78,7 +78,7 @@ export function MyPPP() {
                   alt="Comic-2"
                   className="w-full h-auto rounded-lg object-cover"
                   height={400}
-                  src="/placeholder.svg"
+                  src="/comic-2.jpg"
                   style={{
                     aspectRatio: "300/300",
                     objectFit: "cover",
@@ -89,7 +89,7 @@ export function MyPPP() {
                   alt="Comic-3"
                   className="w-full h-auto rounded-lg object-cover"
                   height={400}
-                  src="/placeholder.svg"
+                  src="/comic-3.jpg"
                   style={{
                     aspectRatio: "300/300",
                     objectFit: "cover",
