@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/button"; // 예시로 임포트된 컴포넌트
 
 export function MyPPP() {
   return (
