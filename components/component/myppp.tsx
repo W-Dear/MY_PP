@@ -8,7 +8,7 @@ export function MyPPP() {
         <div className="container max-w-6xl mx-auto flex items-center justify-between">
           <Link className="flex items-center gap-2" href="#">
             <MagnetIcon className="w-8 h-8" />
-            <span className="text-xl font-bold"></span>
+            <span className="text-xl font-bold">안진섭의 포트폴리오</span>
           </Link>
           <nav className="hidden md:flex items-center gap-6">
             <Link href="#comics" className="hover:underline underline-offset-4">
