@@ -1,9 +1,14 @@
 import Link from "next/link";
-import { Button } from "@/components/ui/button"; // 예시로 임포트된 컴포넌트
+import { Button } from "@/components/ui/button";
+import Head from "next/head";
 
 export function MyPPP() {
   return (
     <>
+      <Head>
+        <title>안진섭의 포트폴리오</title>
+      </Head>
+
       <header className="w-full bg-[#BFB5A2] text-gray-50 py-6 px-4 md:px-6">
         <div className="container max-w-6xl mx-auto flex items-center justify-between">
           <Link className="flex items-center gap-2" href="#">
